@@ -8,7 +8,7 @@ Es un ejercicio en programación que ayuda a los desarrolladores a mejorar sus h
 ## Acerca de esta Kata
 Esta Kata fue presentada por Ken Beck en XP2001. Aca [el video de Karl Scotland haciendo esta kata en Excel at agile 2008](https://www.infoq.com/presentations/TDD-Managers-Nicolette-Scotland)
 
-## Dificultad - Facil.
+### Dificultad - Facil.
 
 ## Descripción del problema
 Los Romanos escribian los numeros usando las letras: I, V, X, L, C, D, M (una ventaja que tenian estas letras era que eran en general hechas con lineas rectas y faciles de esculpir en piedras)
@@ -43,7 +43,9 @@ Retrospectiva
 - Ayuda partir al funcion en pequeñas funciones o es mejor mantener todo en una sola función?
 - El orden en que elegis los tests afecto el algoritmo final?
 - Podes pensar en otro algoritmo para resolver este problema?
-](# Kata Numeros Romanos
+](# Kata Numeros Romanos](## Que es una Kata
+Es un ejercicio en programación que ayuda a los desarrolladores a mejorar sus habilidades a través de práctica y repetición. “Katas de código” fué introducido por primera vez por Dave Thomas, co-autor del libro – The Pragmatic Programmer-, combinando el concepto Japonés de Kata de las artes marciales.
+[Aca mas sobre el tema](https://apiumhub.com/es/tech-blog-barcelona/katas-de-codigo/))
 ## Acerca de esta Kata
 Esta Kata fue presentada por Ken Beck en XP2001. Aca [el video de Karl Scotland haciendo esta kata en Excel at agile 2008](https://www.infoq.com/presentations/TDD-Managers-Nicolette-Scotland)
 
