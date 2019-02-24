@@ -32,14 +32,14 @@ En el codigo de ejemplo están los primeros tests.
 ### Parte II
 Escribir una funcion que convierta en la otra dirección, es decir, de numeros romanos a arábicos
 
-Pistas
+## Pistas
 
 - Crees que es mejor pensar el algoritmo antes de empezar con TDD?
 - Si no conoces el algoritmo para resolver este problema, podes armar uno usando TDD?
 - Si ya conoces el argoritmo para resolver este problema, podes implementarlo usando estrictamente TDD?
 - Cual es la mejor estructura de datos para guardar las letras romanas: (I, V, D, M etc)
 
-Retrospectiva
+## Retrospectiva
 - Ayuda partir al funcion en pequeñas funciones o es mejor mantener todo en una sola función?
 - El orden en que elegis los tests afecto el algoritmo final?
 - Podes pensar en otro algoritmo para resolver este problema?
